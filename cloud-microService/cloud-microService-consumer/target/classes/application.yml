@@ -1,0 +1,17 @@
+server:
+  port: 10002
+spring:
+  application:
+    name: lookbi-cloud-microService-consumer
+  zipkin: 
+    base-url: http://localhost:9400
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    serviceUrl: 
+      defaultZone: http://${eureka.instance.hostname}:8761/eureka/,http://${eureka.instance.hostname}:8762/eureka/,http://${eureka.instance.hostname}:8763/eureka/,http://${eureka.instance.hostname}:8764/eureka/
+hystrix:
+  metrics:
+    enabled: true
+    polling-interval-ms: 1500

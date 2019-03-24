@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: lookbi-cloud-service-eureka-server-cluster
+  profiles:
+    active: eureka1

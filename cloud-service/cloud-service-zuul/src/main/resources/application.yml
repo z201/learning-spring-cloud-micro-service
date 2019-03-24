@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: lookbi-cloud-service-zuul
+  profiles:
+    active: dev

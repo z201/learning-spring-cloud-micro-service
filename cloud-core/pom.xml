@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>z201.github.io</groupId>
+		<artifactId>cloud.newservers</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>cloud.newservers.core</artifactId>
+	<packaging>pom</packaging>
+	<name>cloud.newservers.core</name>
+	<description>cloud.newservers.core 微服务-核心組件</description>
+
+	<modules>
+		<module>cloud-core-rest</module>
+		<module>cloud-core-auth-jwt</module>
+	</modules>
+
+	<properties>
+		<mybatisplus-spring-boot-starter.version>1.0.4</mybatisplus-spring-boot-starter.version>
+		<mybatis-plus.version>2.1-gamma</mybatis-plus.version>
+		<!-- JSON 序列化框架 -->
+		<fastjson.version>1.2.31</fastjson.version>
+		<!-- lang3 -->
+		<apache.commons.lang3>3.6</apache.commons.lang3>
+		<!-- io -->
+		<commons.io.version>2.5</commons.io.version>
+		<!-- okhttp -->
+		<okhttp.version>3.6.0</okhttp.version>
+		<velocity.version>1.7</velocity.version>
+		<!-- 验证码 -->
+		<kaptcha.version>2.3.2</kaptcha.version>
+		<!-- guava -->
+		<guava.version>19.0</guava.version>
+		<!-- 二维码 -->
+		<zxing.version>3.2.1</zxing.version>
+		<!-- 阿里巴巴数据源 -->
+		<druid.version>1.0.28</druid.version>
+		<!-- 在线调试 swagger -->
+		<swagger.version>2.7.0</swagger.version>
+		<!--JWT Java实现 -->
+		<jwt.version>0.7.0</jwt.version>
+	</properties>
+
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>io.spring.platform</groupId>
+				<artifactId>platform-bom</artifactId>
+				<version>Brussels-SR6</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.cloud</groupId>
+				<artifactId>spring-cloud-dependencies</artifactId>
+				<version>Dalston.SR4</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
+	<build>
+		<finalName>${project.name}</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>${java.version}</source>
+					<target>${java.version}</target>
+					<encoding>${project.build.sourceEncoding}</encoding>
+				</configuration>
+			</plugin>
+			<!-- 代码检查 -->
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>findbugs-maven-plugin</artifactId>
+				<version>3.0.4</version>
+				<configuration>
+					<xmlOutput>true</xmlOutput>
+					<findbugsXmlOutput>true</findbugsXmlOutput>
+					<findbugsXmlWithMessages>true</findbugsXmlWithMessages>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-checkstyle-plugin</artifactId>
+				<version>2.17</version>
+				<configuration>
+					<linkXRef>false</linkXRef>
+					<failsOnError>true</failsOnError>
+					<consoleOutput>true</consoleOutput>
+					<configLocation>checkstyle.xml</configLocation>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-pmd-plugin</artifactId>
+				<version>3.7</version>
+				<configuration>
+					<linkXref>false</linkXref>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

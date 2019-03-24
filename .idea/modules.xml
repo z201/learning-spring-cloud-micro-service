@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/cloud.core.jwt.iml" filepath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/cloud.core.jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/cloud.core.rest.iml" filepath="$PROJECT_DIR$/cloud-core/cloud-core-rest/cloud.core.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/cloud.microService.consumer.iml" filepath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/cloud.microService.consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-microService/cloud-microService-provider/cloud.microService.provider.iml" filepath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/cloud.microService.provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud.newservers.iml" filepath="$PROJECT_DIR$/cloud.newservers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-core/cloud.newservers.core.iml" filepath="$PROJECT_DIR$/cloud-core/cloud.newservers.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-microService/cloud.newservers.microService.iml" filepath="$PROJECT_DIR$/cloud-microService/cloud.newservers.microService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service/cloud.newservers.service.iml" filepath="$PROJECT_DIR$/cloud-service/cloud.newservers.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service/cloud-service-config/cloud.service.config.iml" filepath="$PROJECT_DIR$/cloud-service/cloud-service-config/cloud.service.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/cloud.service.eureka.iml" filepath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/cloud.service.eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service/cloud-service-zipkin/cloud.service.zipkin.iml" filepath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/cloud.service.zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service/cloud-service-zuul/cloud.service.zuul.iml" filepath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/cloud.service.zuul.iml" />
+    </modules>
+  </component>
+</project>

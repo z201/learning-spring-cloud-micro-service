@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-core/cloud-core-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-microService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-microService/cloud-microService-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-microService/cloud-microService-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service/cloud-service-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service/cloud-service-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service/cloud-service-zuul" charset="UTF-8" />
+  </component>
+</project>

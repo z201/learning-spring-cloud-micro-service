@@ -1,0 +1,18 @@
+server:
+  port: 8761
+
+spring:
+  profiles: eureka1
+
+eureka:
+  instance:
+    hostname: eureka1
+    instance-id: ${spring.application.name}:${server.port}
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8762/eureka,http://localhost:8763/eureka,http://localhost:8764/eureka
+feign:
+  hystrix:
+    enabled: true
