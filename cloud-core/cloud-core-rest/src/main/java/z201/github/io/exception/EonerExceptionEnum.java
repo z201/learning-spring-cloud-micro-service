@@ -31,8 +31,6 @@ public enum EonerExceptionEnum {
 	FILE_NOT_FOUND(0,"文件不存在"),
 	FILE_READING_ERROR(0,"文件读取失败"),
 	REPEATING_DATA(0, "数据已经存在"),
-	SMS_ERROR(0, "服务器异常，短信发送失败。"),
-	AMAP_ERROR(0, "服务器异常，百度地图计算错误。"),
 	SERVER_ERROR(0, "服务器异常");
 
 	EonerExceptionEnum(int code, String message) {

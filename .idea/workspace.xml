@@ -2,141 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b14a7b50-2d55-45d5-bd13-b592a81a2b3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/classes/z201/github/io/jwt/BasicJwtUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/classes/z201/github/io/jwt/JwtAuthenticationEntryPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/classes/z201/github/io/jwt/JwtTokenUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/classes/z201/github/io/jwt/JwtUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/classes/z201/github/io/jwt/properties/JwtProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/cloud.core.jwt.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/base/controller/BaseRestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/base/tips/AbstractTip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/base/tips/ErrorTip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/base/tips/SuccessTip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/base/warpper/BaseControllerWarpper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/constant/Globals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/constant/IsMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/constant/LogSucceed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/constant/LogType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/constant/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/enums/CaptchaType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/enums/RpcSignTypeEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/exception/BizExceptionEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/exception/BussinessException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/exception/DebugControllerExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/exception/EonerException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/exception/EonerExceptionEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/exception/EonerJwtException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/exception/GlobalControllerExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/exception/InvalidKaptchaException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/exception/ToolBoxException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/node/MenuNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/node/ZTreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/page/PageBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/page/PageInfoBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/page/PageLimitFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/ClassKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/CollectionKit$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/CollectionKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/DateTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/DateTimeKit$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/DateTimeKit$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/DateTimeKit$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/DateTimeKit$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/DateTimeKit$Timer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/DateTimeKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/HexKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/ObjectKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/PageKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/StrKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/WafKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/support/WafRequestWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/DateUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/FileUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/HashKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/HttpRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/HttpSessionHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/IdGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/JsonUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/MD5Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/NumUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/ObjectValidUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/PingYinUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/ResKit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/RespondJsonInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/SimpleContrast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/SpringContextHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/SqlUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/StringUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/util/ToolUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/xss/XssFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/classes/z201/github/io/xss/XssHttpServletRequestWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/cloud.core.rest.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/classes/z201/github/io/cloud/consumer/CloudClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/classes/z201/github/io/cloud/consumer/CloudConsumerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/classes/z201/github/io/cloud/consumer/DefaultFastjsonConfig$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/classes/z201/github/io/cloud/consumer/DefaultFastjsonConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/classes/z201/github/io/cloud/consumer/RestConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/classes/z201/github/io/cloud/consumer/controller/ConsumerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/classes/z201/github/io/cloud/consumer/remote/ProviderRemote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/cloud.microService.consumer.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/cloud.microService.consumer.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/classes/z201/github/io/cloud/provider/CloudProviderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/classes/z201/github/io/cloud/provider/DefaultFastjsonConfig$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/classes/z201/github/io/cloud/provider/DefaultFastjsonConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/classes/z201/github/io/cloud/provider/controller/ProviderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/cloud.microService.provider.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/cloud.microService.provider.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-config/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-config/target/classes/z201/github/io/cloud/config/ConfigServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-config/target/cloud.service.config.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-config/target/cloud.service.config.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-config/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/classes/application-eureka1.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/classes/application-eureka2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/classes/application-eureka3.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/classes/application-eureka4.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/classes/z201/github/io/cloud/eureka/EurekaServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/cloud.service.eureka.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/cloud.service.eureka.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/target/classes/z201/github/io/cloud/zipkin/ZipkinServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/target/cloud.service.zipkin.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/target/cloud.service.zipkin.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/classes/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/classes/application-hzb.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/classes/z201/github/io/cloud/zuul/GatewayZuulServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/cloud.service.zuul.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/cloud.service.zuul.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/EonerExceptionEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/EonerExceptionEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/src/main/java/z201/github/io/cloud/consumer/CloudConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/src/main/java/z201/github/io/cloud/consumer/CloudConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/src/main/java/z201/github/io/cloud/zipkin/ZipkinServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/src/main/java/z201/github/io/cloud/zipkin/ZipkinServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/src/main/java/z201/github/io/cloud/zuul/GatewayZuulServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-service/cloud-service-zuul/src/main/java/z201/github/io/cloud/zuul/GatewayZuulServiceApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cloud-service/cloud-service-zuul/target/" />
     <ignored path="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/target/" />
@@ -156,8 +27,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/DebugControllerExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/GlobalControllerExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="118" column="17" lean-forward="true" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -169,8 +63,6 @@
         <option value="$PROJECT_DIR$/cloud-service/cloud-service-eureka/src/main/resources/application-eureka.yml" />
         <option value="$PROJECT_DIR$/cloud-core/cloud-core-rest/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/base/controller/BaseRestController.java" />
-        <option value="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/src/main/java/z201/github/io/cloud/provider/CloudProviderApplication.java" />
-        <option value="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/src/main/java/z201/github/io/cloud/consumer/CloudConsumerApplication.java" />
         <option value="$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/src/main/java/z201/github/io/jwt/properties/JwtProperties.java" />
         <option value="$PROJECT_DIR$/run-zipkin.sh" />
         <option value="$PROJECT_DIR$/run-microService-provider.sh" />
@@ -181,22 +73,18 @@
         <option value="$PROJECT_DIR$/config/config-test.properties" />
         <option value="$PROJECT_DIR$/cloud-service/cloud-service-config/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-service/cloud-service-zipkin/src/main/java/z201/github/io/cloud/zipkin/ZipkinServiceApplication.java" />
+        <option value="$PROJECT_DIR$/cloud-service/cloud-service-zuul/src/main/java/z201/github/io/cloud/zuul/GatewayZuulServiceApplication.java" />
+        <option value="$PROJECT_DIR$/cloud-microService/cloud-microService-provider/src/main/java/z201/github/io/cloud/provider/CloudProviderApplication.java" />
+        <option value="$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/src/main/java/z201/github/io/cloud/consumer/CloudConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/EonerExceptionEnum.java" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cloud.newservers.core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cloud.newservers.core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -212,8 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,13 +107,119 @@
               <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="tips" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-core-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud.newservers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-spring-cloud-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-microService" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -237,6 +229,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -360,12 +353,18 @@
       <updated>1553412633258</updated>
       <workItem from="1553412636467" duration="2725000" />
       <workItem from="1553415997204" duration="339000" />
-      <workItem from="1553416353105" duration="2383000" />
+      <workItem from="1553416353105" duration="4571000" />
+      <workItem from="1553527344469" duration="336000" />
+      <workItem from="1553677388667" duration="586000" />
+      <workItem from="1553963450105" duration="95000" />
+      <workItem from="1555149412582" duration="50000" />
+      <workItem from="1562745519065" duration="670000" />
+      <workItem from="1591607314300" duration="922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5447000" />
+    <option name="totallyTimeSpent" value="10294000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,9 +377,48 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="23" width="1634" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7404844" visible="true" weight="0.35050252" />
-      <window_info id="Structure" order="1" sideWeight="0.25951558" side_tool="true" visible="true" weight="0.35050252" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73417723" visible="true" weight="0.26884422" />
+      <window_info id="Structure" order="1" sideWeight="0.2658228" side_tool="true" weight="0.34422112" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6909091" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.26319095" side_tool="true" weight="0.61390376" />
+      <window_info anchor="bottom" id="Statistic" order="12" weight="0.32941177" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" x="67" y="382" width="1592" height="308" id="Version Control" order="15" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32941177" />
+      <window_info anchor="bottom" content_ui="combo" x="349" y="432" width="1173" height="574" id="Run Dashboard" order="17" sideWeight="0.7368091" weight="0.40855616" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.125" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Codota" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73417723" visible="true" weight="0.34422112" />
+      <window_info id="Structure" order="1" sideWeight="0.2658228" side_tool="true" visible="true" weight="0.34422112" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -392,7 +430,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.6909091" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6909091" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Sequence" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.26319095" side_tool="true" weight="0.61390376" />
@@ -401,197 +439,23 @@
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" x="67" y="382" width="1592" height="308" id="Version Control" order="15" weight="0.32941177" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.32941177" />
-      <window_info anchor="bottom" content_ui="combo" x="349" y="432" width="1173" height="574" id="Run Dashboard" order="17" sideWeight="0.7368091" weight="0.47058824" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.1281407" />
-      <window_info anchor="right" id="PlantUML" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Bean Validation" order="8" />
-    </layout>
+      <window_info anchor="bottom" content_ui="combo" x="349" y="432" width="1173" height="574" id="Run Dashboard" order="17" sideWeight="0.7368091" visible="true" weight="0.40855616" />
+      <window_info anchor="right" id="Codota" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.125" />
+      <window_info anchor="right" id="PlantUML" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sonar-project.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run-zuul.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-zuul/src/main/java/z201/github/io/cloud/zuul/GatewayZuulServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-zipkin/src/main/java/z201/github/io/cloud/zipkin/ZipkinServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.3.5.RELEASE/spring-cloud-netflix-eureka-client-1.3.5.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="e#15340#15341#0" expanded="true" />
-            <element signature="e#15400#15401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/src/main/resources/application-eureka.yml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus/2.1-gamma/mybatis-plus-2.1-gamma.jar!/com/baomidou/mybatisplus/plugins/Page.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/page/PageFactory.java" />
-    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/page/PageLimitFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/page/PageInfoBT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/page/PageBT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/base/controller/BaseRestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="144" selection-start-line="144" selection-end-line="144" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/node/MenuNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/node/ZTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/src/main/resources/application-eureka2.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/src/main/resources/application-eureka3.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/src/main/resources/application-eureka4.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-zipkin/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/src/main/java/z201/github/io/cloud/eureka/EurekaServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/src/main/resources/application-eureka1.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.10.RELEASE/spring-boot-1.5.10.RELEASE.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.10.RELEASE/spring-boot-1.5.10.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/src/main/java/z201/github/io/jwt/properties/JwtProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run-sonar-scanner.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run-zipkin.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/run-microService-provider.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -617,20 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-microService/cloud-microService-provider/src/main/java/z201/github/io/cloud/provider/CloudProviderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/src/main/java/z201/github/io/cloud/consumer/CloudConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -718,6 +568,238 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-zipkin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-eureka/src/main/java/z201/github/io/cloud/eureka/EurekaServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.2.4.RELEASE/spring-cloud-commons-1.2.4.RELEASE.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.class" />
+    <entry file="file://$PROJECT_DIR$/cloud-microService/cloud-microService-provider/src/main/java/z201/github/io/cloud/provider/CloudProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/src/main/java/z201/github/io/cloud/consumer/CloudConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-zipkin/src/main/java/z201/github/io/cloud/zipkin/ZipkinServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/constant/IsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-microService/cloud-microService-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kill.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-service/cloud-service-zuul/src/main/java/z201/github/io/cloud/zuul/GatewayZuulServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sonar-project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run-eureka.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run-microService-consumer.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run-sonar-scanner.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run-zuul.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run-zipkin.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/src/main/java/z201/github/io/jwt/properties/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/src/main/java/z201/github/io/jwt/BasicJwtUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/src/main/java/z201/github/io/jwt/JwtAuthenticationEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/src/main/java/z201/github/io/jwt/JwtTokenUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="270" column="30" lean-forward="true" selection-start-line="270" selection-start-column="30" selection-end-line="270" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-auth-jwt/src/main/java/z201/github/io/jwt/JwtUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/base/controller/BaseRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/base/tips/AbstractTip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/base/tips/SuccessTip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/base/tips/ErrorTip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/BussinessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/EonerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/EonerJwtException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/DebugControllerExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/EonerExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-core/cloud-core-rest/src/main/java/z201/github/io/exception/GlobalControllerExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="118" column="17" lean-forward="true" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -770,12 +852,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>service|newservers|cloud</last-edited>
+          <last-edited>Spring|consumer|microService|cloud</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
